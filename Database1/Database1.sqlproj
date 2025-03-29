@@ -57,4 +57,8 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Persons.sql" />
+    <Build Include="sp_Persons_Select.sql" />
+  </ItemGroup>
 </Project>
